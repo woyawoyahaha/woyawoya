@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "amfe-flexible": "^2.2.1",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "core-js": "^3.4.4",
     "moment": "^2.24.0",
     "px2rem-loader": "^0.1.9",
